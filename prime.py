@@ -1,6 +1,6 @@
 
 def prime_number(number):
-    num=number/2
+    num=number//2
     a=2
     is_prime=True
     for a in range (2,num):
